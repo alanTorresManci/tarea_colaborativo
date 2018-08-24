@@ -1,3 +1,9 @@
-Este archivo será utilizado para emular modificaciones en el proyecto colaborativo
+﻿Este archivo será utilizado para emular modificaciones en el proyecto colaborativo
 
-Alan Alejandro Torres Mancilla
+Alan Alejandro Torres Mancilla 
+
+Lourdes Susana Martinez Garcia 
+El repositorio remoto actualizado se puede encontrar en las URL's
+
+https://github.com/susymtz/tarea_colaborativo
+https://github.com/alanTorresManci/tarea_colaborativo
